@@ -1,0 +1,5 @@
+echo "data/
+__pycache__/
+*.pyc
+*.pkl
+.env" > .gitignore
